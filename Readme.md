@@ -1,4 +1,4 @@
-# Introdução à programação com Python ☼ [Aulas DIO](https://web.digitalinnovation.one/course/introducao-a-programacao-com-python/learning/1a4f5956-fe77-4e5a-bc3a-5364e06b5c79/)
+# [Introdução à programação com Python](https://github.com/kakanew/DIO_Python/tree/master/AULAS_Introducao_Python)
 
 O curso trará todo o embasamento da linguagem Python, quando e onde é mais indicado aplicá-la.
 
@@ -14,3 +14,4 @@ O curso trará todo o embasamento da linguagem Python, quando e onde é mais ind
 - [x] Aprenda a utilizar informações de data, horário e relacionar datas diferentes
 - [x] Gerenciando e criando exceções customizadas com try, except, else e finally
 
+### [DIO_Python](https://github.com/kakanew/DIO_Python)
